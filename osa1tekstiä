@@ -1,0 +1,8 @@
+public class OlipaKerran {
+    public static void main(String[] args) {
+        // Toteuta ohjelmasi tänne
+Olipa kerran Matti, joka kokeili ja ei uskonut, että on ranskalainen opetusanimaatiosarjojen kokoelma.
+Kokoelmaan kuuluu seitsemän erillistä sarjaa,
+jotka käsittelevät eri tiedonaloja.
+    }
+}
